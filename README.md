@@ -1,4 +1,4 @@
-"""# Olá, eu sou a Gabriela 👋
+# Olá, eu sou a Gabriela 👋
 
 **Data Analyst | Data Engineer | BI**
 
@@ -22,7 +22,7 @@ with open("README.md", "w", encoding="utf-8") as f:
 
 print("README.md gerado com sucesso!")
 
-"""# Hi, I'm Gabriela 👋
+# Hi, I'm Gabriela 👋
 
 **Data Analyst | Data Engineer | BI**
 
