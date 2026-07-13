@@ -15,12 +15,7 @@ Transformo dados brutos em pipelines e dashboards que geram decisão.
 
 ## 📫 Contato
 - LinkedIn: [gabriela-lobato-003a7b40](https://linkedin.com/in/gabriela-lobato-003a7b40)
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README.md gerado com sucesso!")
+- Email: [gabrielalbt@gmail.com](gabrielalbt@gmail.com)
 
 # Hi, I'm Gabriela 👋
 
@@ -39,9 +34,4 @@ I turn raw data into pipelines and dashboards that drive decisions.
 
 ## 📫 Contact
 - LinkedIn: [gabriela-lobato-003a7b40](https://linkedin.com/in/gabriela-lobato-003a7b40)
-"""
-
-with open("README_en.md", "w", encoding="utf-8") as f:
-    f.write(readme_en)
-
-print("README_en.md generated successfully!")
+- Email: [gabrielalbt@gmail.com](gabrielalbt@gmail.com)
