@@ -1,4 +1,4 @@
-readme_content = """# Olá, eu sou a Gabriela 👋
+"""# Olá, eu sou a Gabriela 👋
 
 **Data Analyst | Data Engineer | BI**
 
@@ -21,3 +21,27 @@ with open("README.md", "w", encoding="utf-8") as f:
     f.write(readme_content)
 
 print("README.md gerado com sucesso!")
+
+"""# Hi, I'm Gabriela 👋
+
+**Data Analyst | Data Engineer | BI**
+
+I turn raw data into pipelines and dashboards that drive decisions.
+
+## 🛠️ Stack
+- **Languages:** Python, SQL
+- **BI:** Power BI
+- **Data:** Data engineering, real-time pipelines, PostgreSQL
+
+## 📌 Featured Projects
+- **[Portfolio](https://github.com/gxlobato/Portfolio)** — Data engineering and analytics projects
+- **[OrderStream](https://github.com/gxlobato/OrderStream)** — Real-time data pipeline that simulates e-commerce orders, processing events one by one and storing computed metrics in a cloud Postgres database
+
+## 📫 Contact
+- LinkedIn: [gabriela-lobato-003a7b40](https://linkedin.com/in/gabriela-lobato-003a7b40)
+"""
+
+with open("README_en.md", "w", encoding="utf-8") as f:
+    f.write(readme_en)
+
+print("README_en.md generated successfully!")
